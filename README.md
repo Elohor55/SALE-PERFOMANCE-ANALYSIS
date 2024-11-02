@@ -111,9 +111,12 @@ THEN 1 ELSE 0 END ) AS Canceled_Subscription from [dbo].[customer data]
 
 ### Power BI Dashboard
 
-The dashboard visualizes key insights on sales performance, product categories, and regional trends.
+
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/4903bf40-db11-437c-8b04-4c6a863c5865)
+
+![image](https://github.com/user-attachments/assets/4623d6f4-39d5-435f-879c-22d995407512)
+
 
 
 ### Recommendations
