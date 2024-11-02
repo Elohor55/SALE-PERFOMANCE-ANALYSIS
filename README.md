@@ -109,9 +109,12 @@ THEN 1 ELSE 0 END ) AS Canceled_Subscription from [dbo].[customer data]
 2. Europe: Second-highest sales revenue ($300,000)
 3. Asia-Pacific: Third-highest sales revenue ($200,000)
 
-### Power BI Dashboard*
+### Power BI Dashboard
 
 The dashboard visualizes key insights on sales performance, product categories, and regional trends.
+
+![Screenshot (21)](https://github.com/user-attachments/assets/4903bf40-db11-437c-8b04-4c6a863c5865)
+
 
 ### Recommendations
 
