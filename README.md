@@ -88,34 +88,31 @@ SUM( CASE WHEN SubscriptionType= 'Canceled '
 THEN 1 ELSE 0 END ) AS Canceled_Subscription from [dbo].[customer data]
 ```
 
-
-### Results
-
 ### Sales Performance Analysis
 
 1. Total Sales: $10,578,500 (year-to-date)
 2. Top-selling Products: Shoe (23.93%), Jacket (21.37%), shirt (18.8%), Hat(14.53%), Gloves(11.97%), Sock (9.4%)
-3. Regional Sales: South (4.7m), East (2.5m), North (2.0m) , West(1.5m)
+3. Regional Sales: South (4.7m), East (2.5m), North (2m) , West(1.5m)
 
-### Product Category Analysis
 
-1. Electronics: Top-selling products - Smartphones, Laptops
-2. Clothing: Top-selling products - T-shirts, Jeans
-3. Home Goods: Top-selling products - Furniture, Kitchen Appliances
 
-*Regional Analysis*
+### Regional Analysis
 
-1. North America: Highest sales revenue ($400,000)
-2. Europe: Second-highest sales revenue ($300,000)
-3. Asia-Pacific: Third-highest sales revenue ($200,000)
+1. South: Highest sales revenue (4.7m )
+2. East: Second-highest sales revenue (2.5m)
+3. North: Third-highest sales revenue (2m)
 
-### Power BI Dashboard
+### Data visualiztion
 
 
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/4903bf40-db11-437c-8b04-4c6a863c5865)
 
 ![image](https://github.com/user-attachments/assets/4623d6f4-39d5-435f-879c-22d995407512)
+
+![image](https://github.com/user-attachments/assets/14634271-41fd-408e-a796-7ba4ac1096a6)
+
+![image](https://github.com/user-attachments/assets/e2a7cac1-2af1-496a-b92e-ca70010f89f0)
 
 
 
